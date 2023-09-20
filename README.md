@@ -1,2 +1,2 @@
 # VBA
-Repository for small VBA code
+Repository for small VBA solution
